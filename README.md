@@ -1,1 +1,1 @@
-# Oasis_Internship_Task1_Caalculator
+# Oasis_Internship_Task1_Calculator
